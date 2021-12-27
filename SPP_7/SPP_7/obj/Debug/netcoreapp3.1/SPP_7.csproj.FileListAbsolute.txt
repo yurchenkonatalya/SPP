@@ -1,0 +1,13 @@
+/Users/yurchenkonatalya/Projects/SPP_7/SPP_7/bin/Debug/netcoreapp3.1/SPP_7.deps.json
+/Users/yurchenkonatalya/Projects/SPP_7/SPP_7/bin/Debug/netcoreapp3.1/SPP_7.runtimeconfig.json
+/Users/yurchenkonatalya/Projects/SPP_7/SPP_7/bin/Debug/netcoreapp3.1/SPP_7.runtimeconfig.dev.json
+/Users/yurchenkonatalya/Projects/SPP_7/SPP_7/bin/Debug/netcoreapp3.1/SPP_7.dll
+/Users/yurchenkonatalya/Projects/SPP_7/SPP_7/bin/Debug/netcoreapp3.1/SPP_7.pdb
+/Users/yurchenkonatalya/Projects/SPP_7/SPP_7/obj/Debug/netcoreapp3.1/SPP_7.csproj.AssemblyReference.cache
+/Users/yurchenkonatalya/Projects/SPP_7/SPP_7/obj/Debug/netcoreapp3.1/SPP_7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yurchenkonatalya/Projects/SPP_7/SPP_7/obj/Debug/netcoreapp3.1/SPP_7.AssemblyInfoInputs.cache
+/Users/yurchenkonatalya/Projects/SPP_7/SPP_7/obj/Debug/netcoreapp3.1/SPP_7.AssemblyInfo.cs
+/Users/yurchenkonatalya/Projects/SPP_7/SPP_7/obj/Debug/netcoreapp3.1/SPP_7.csproj.CoreCompileInputs.cache
+/Users/yurchenkonatalya/Projects/SPP_7/SPP_7/obj/Debug/netcoreapp3.1/SPP_7.dll
+/Users/yurchenkonatalya/Projects/SPP_7/SPP_7/obj/Debug/netcoreapp3.1/SPP_7.pdb
+/Users/yurchenkonatalya/Projects/SPP_7/SPP_7/obj/Debug/netcoreapp3.1/SPP_7.genruntimeconfig.cache
