@@ -1,0 +1,12 @@
+/Users/yurchenkonatalya/Projects/SPP_1/SPP_1/bin/Debug/netcoreapp3.1/SPP_1.deps.json
+/Users/yurchenkonatalya/Projects/SPP_1/SPP_1/bin/Debug/netcoreapp3.1/SPP_1.runtimeconfig.json
+/Users/yurchenkonatalya/Projects/SPP_1/SPP_1/bin/Debug/netcoreapp3.1/SPP_1.runtimeconfig.dev.json
+/Users/yurchenkonatalya/Projects/SPP_1/SPP_1/bin/Debug/netcoreapp3.1/SPP_1.dll
+/Users/yurchenkonatalya/Projects/SPP_1/SPP_1/bin/Debug/netcoreapp3.1/SPP_1.pdb
+/Users/yurchenkonatalya/Projects/SPP_1/SPP_1/obj/Debug/netcoreapp3.1/SPP_1.csprojAssemblyReference.cache
+/Users/yurchenkonatalya/Projects/SPP_1/SPP_1/obj/Debug/netcoreapp3.1/SPP_1.AssemblyInfoInputs.cache
+/Users/yurchenkonatalya/Projects/SPP_1/SPP_1/obj/Debug/netcoreapp3.1/SPP_1.AssemblyInfo.cs
+/Users/yurchenkonatalya/Projects/SPP_1/SPP_1/obj/Debug/netcoreapp3.1/SPP_1.csproj.CoreCompileInputs.cache
+/Users/yurchenkonatalya/Projects/SPP_1/SPP_1/obj/Debug/netcoreapp3.1/SPP_1.dll
+/Users/yurchenkonatalya/Projects/SPP_1/SPP_1/obj/Debug/netcoreapp3.1/SPP_1.pdb
+/Users/yurchenkonatalya/Projects/SPP_1/SPP_1/obj/Debug/netcoreapp3.1/SPP_1.genruntimeconfig.cache
